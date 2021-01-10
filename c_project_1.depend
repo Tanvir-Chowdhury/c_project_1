@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1606216685 source:/home/codinxter/Desktop/C_projects/c_project_1/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1606276369 source:/home/codinxter/Desktop/C_projects/c_project_1/Day2.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
